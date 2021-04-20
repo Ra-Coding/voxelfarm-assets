@@ -13,4 +13,6 @@ endif::[]
 
 === Pflanzen
 
+===== Karotte
+
 image:/pflanzen/Karotte.png[Karotte]
