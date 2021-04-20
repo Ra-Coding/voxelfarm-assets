@@ -13,6 +13,10 @@ endif::[]
 
 === Pflanzen
 
-===== Karotte
+===== Karotte (Phase 1 - 3)
 
-image:/pflanzen/Karotte.png[Karotte]
+image:/pflanzen/karotte/Karotte_1.png[Karotte Phase 1]
+
+image:/pflanzen/karotte/Karotte_2.png[Karotte Phase 2]
+
+image:/pflanzen/karotte/Karotte_3.png[Karotte Phase 3]
