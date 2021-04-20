@@ -13,4 +13,4 @@ endif::[]
 
 === Pflanzen
 
-image:./pflanzen/Karotte.png[Karotte]
+image:/pflanzen/Karotte.png[Karotte]
