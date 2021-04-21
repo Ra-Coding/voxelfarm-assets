@@ -30,3 +30,7 @@ image:/dekoration/tasse/Tasse_Kaffee.png[Tasse Kaffee]
 ===== Kaktus
 
 image:/dekoration/kaktus/Kaktus.png[Kaktus]
+
+===== Bild
+
+image:/dekoration/bild/Bild.png[Bild]
