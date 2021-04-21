@@ -20,3 +20,9 @@ image:/pflanzen/karotte/Karotte_1.png[Karotte Phase 1]
 image:/pflanzen/karotte/Karotte_2.png[Karotte Phase 2]
 
 image:/pflanzen/karotte/Karotte_3.png[Karotte Phase 3]
+
+=== Dekoration
+
+===== Tasse Kaffee
+
+image:/dekoration/tasse/Tasse_Kaffee.png[Tasse Kaffee]
