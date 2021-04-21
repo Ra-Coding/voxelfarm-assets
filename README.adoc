@@ -26,3 +26,7 @@ image:/pflanzen/karotte/Karotte_3.png[Karotte Phase 3]
 ===== Tasse Kaffee
 
 image:/dekoration/tasse/Tasse_Kaffee.png[Tasse Kaffee]
+
+===== Kaktus
+
+image:/dekoration/kaktus/Kaktus.png[Kaktus]
