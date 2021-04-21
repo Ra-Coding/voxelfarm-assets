@@ -34,3 +34,9 @@ image:/dekoration/kaktus/Kaktus.png[Kaktus]
 ===== Bild
 
 image:/dekoration/bild/Bild.png[Bild]
+
+=== Tiere
+
+==== Taube
+
+image:/tiere/taube/Taube.png[Taube]
