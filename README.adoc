@@ -35,6 +35,12 @@ image:/dekoration/kaktus/Kaktus.png[Kaktus]
 
 image:/dekoration/bild/Bild.png[Bild]
 
+=== NPCs
+
+==== Helpy
+
+image:/npc/helpy/Helpy.png[Helpy]
+
 === Tiere
 
 ==== Taube
