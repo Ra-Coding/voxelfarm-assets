@@ -41,6 +41,8 @@ image:/dekoration/bild/Bild.png[Bild]
 
 image:/tiere/taube/Taube.png[Taube]
 
+image:/tiere/taube/Taubenei.png[Taubenei]
+
 ==== Schwein
 
 image:/tiere/schwein/Schwein.png[Schwein]
