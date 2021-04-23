@@ -52,3 +52,5 @@ image:/tiere/taube/Taubenei.png[Taubenei]
 ==== Schwein
 
 image:/tiere/schwein/Schwein.png[Schwein]
+
+image:/tiere/schwein/Wildschwein.png[Wildschwein]
