@@ -47,6 +47,8 @@ image:/npc/helpy/Helpy.png[Helpy]
 
 image:/tiere/taube/Taube.png[Taube]
 
+image:/tiere/taube/Taube_weiß.png[Taube weiß]
+
 image:/tiere/taube/Taubenei.png[Taubenei]
 
 ==== Schwein
@@ -54,3 +56,7 @@ image:/tiere/taube/Taubenei.png[Taubenei]
 image:/tiere/schwein/Schwein.png[Schwein]
 
 image:/tiere/schwein/Wildschwein.png[Wildschwein]
+
+==== Karpfen
+
+image:/tiere/karpfen/Karpfen.png[Karpfen]
