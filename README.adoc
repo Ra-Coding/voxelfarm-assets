@@ -29,6 +29,14 @@ image:/pflanzen/apfel/Apfel.png[Apfel]
 
 image:/pflanzen/erdbeere/Erdbeere.png[Erdbeere]
 
+===== Himbeere
+
+image:/pflanzen/himbeere/Himbeere.png[Himbeere]
+
+===== Brombeere
+
+image:/pflanzen/brombeere/Brombeere.png[Brombeere]
+
 === Dekoration
 
 ===== Tasse Kaffee
