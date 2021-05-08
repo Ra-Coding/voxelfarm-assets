@@ -21,6 +21,10 @@ image:/pflanzen/karotte/Karotte_2.png[Karotte Phase 2]
 
 image:/pflanzen/karotte/Karotte_3.png[Karotte Phase 3]
 
+===== Apfel (Phase 1 - 3)
+
+image:/pflanzen/apfel/Apfel.png[Apfel]
+
 === Dekoration
 
 ===== Tasse Kaffee
