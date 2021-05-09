@@ -37,6 +37,10 @@ image:/pflanzen/himbeere/Himbeere.png[Himbeere]
 
 image:/pflanzen/brombeere/Brombeere.png[Brombeere]
 
+===== Kirsche
+
+image:/pflanzen/kirsche/Kirsche.png[Kirsche]
+
 === Dekoration
 
 ===== Tasse Kaffee
