@@ -80,3 +80,9 @@ image:/tiere/schwein/Wildschwein.png[Wildschwein]
 ==== Karpfen
 
 image:/tiere/karpfen/Karpfen.png[Karpfen]
+
+=== Geld
+
+==== Münze
+
+image:/geld/muenze/Muenze.png[Muenze]
