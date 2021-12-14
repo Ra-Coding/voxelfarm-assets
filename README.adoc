@@ -61,6 +61,8 @@ image:/dekoration/bild/Bild.png[Bild]
 
 image:/npc/helpy/Helpy.png[Helpy]
 
+image:/npc/helpy/Helpy_lachend.png[Helpy_lachend]
+
 === Tiere
 
 ==== Taube
