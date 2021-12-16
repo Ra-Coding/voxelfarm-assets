@@ -45,7 +45,7 @@ image:/plants/cherry/cherry.png[cherry]
 
 ===== Cup of coffee
 
-image:/decoration/cup/cuo_of_coffee.png[cup of coffee]
+image:/decoration/cup/cup_of_coffee.png[cup of coffee]
 
 ===== Cactus
 
