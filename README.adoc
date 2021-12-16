@@ -11,80 +11,80 @@ ifdef::env-github[]
 :warning-caption: :warning:
 endif::[]
 
-=== Pflanzen
+=== Plants
 
-===== Karotte (Phase 1 - 3)
+===== Carrot (stage 1 - 3)
 
-image:/pflanzen/karotte/Karotte_1.png[Karotte Phase 1]
+image:/plants/carrot/carrot_1.png[carrot stage 1]
 
-image:/pflanzen/karotte/Karotte_2.png[Karotte Phase 2]
+image:/plants/carrot/carrot_2.png[carrot stage 2]
 
-image:/pflanzen/karotte/Karotte_3.png[Karotte Phase 3]
+image:/plants/carrot/carrot_3.png[carrot stage 3]
 
-===== Apfel
+===== Apple
 
-image:/pflanzen/apfel/Apfel.png[Apfel]
+image:/plants/apple/apple.png[apple]
 
-===== Erdbeere
+===== Strawberry
 
-image:/pflanzen/erdbeere/Erdbeere.png[Erdbeere]
+image:/plants/strawberry/strawberry.png[strawberry]
 
-===== Himbeere
+===== Raspberry
 
-image:/pflanzen/himbeere/Himbeere.png[Himbeere]
+image:/plants/raspberry/raspberry.png[raspberry]
 
-===== Brombeere
+===== Blackberry
 
-image:/pflanzen/brombeere/Brombeere.png[Brombeere]
+image:/plants/blackberry/blackberry.png[blackberry]
 
-===== Kirsche
+===== Cherry
 
-image:/pflanzen/kirsche/Kirsche.png[Kirsche]
+image:/plants/cherry/cherry.png[cherry]
 
-=== Dekoration
+=== Decoration
 
-===== Tasse Kaffee
+===== Cup of coffee
 
-image:/dekoration/tasse/Tasse_Kaffee.png[Tasse Kaffee]
+image:/dekoration/cup/cuo_of_coffee.png[cup of coffee]
 
-===== Kaktus
+===== Cactus
 
-image:/dekoration/kaktus/Kaktus.png[Kaktus]
+image:/dekoration/cactus/cactus.png[cactus]
 
-===== Bild
+===== Picture
 
-image:/dekoration/bild/Bild.png[Bild]
+image:/dekoration/picture/picture.png[picture]
 
 === NPCs
 
 ==== Helpy
 
-image:/npc/helpy/Helpy.png[Helpy]
+image:/npc/helpy/helpy.png[helpy]
 
-image:/npc/helpy/Helpy_lachend.png[Helpy_lachend]
+image:/npc/helpy/helpy_laughing.png[helpy laughing]
 
-=== Tiere
+=== Animals
 
-==== Taube
+==== Pigeon
 
-image:/tiere/taube/Taube.png[Taube]
+image:/tiere/pigeon/pigeon.png[pigeon]
 
-image:/tiere/taube/Taube_weiß.png[Taube weiß]
+image:/tiere/pigeon/pigeon_white.png[pigeon white]
 
-image:/tiere/taube/Taubenei.png[Taubenei]
+image:/tiere/pigeon/pigeon_egg.png[pigeon egg]
 
-==== Schwein
+==== Pig
 
-image:/tiere/schwein/Schwein.png[Schwein]
+image:/tiere/pig/pig.png[pig]
 
-image:/tiere/schwein/Wildschwein.png[Wildschwein]
+image:/tiere/pig/boar.png[boar]
 
-==== Karpfen
+==== Carp
 
-image:/tiere/karpfen/Karpfen.png[Karpfen]
+image:/tiere/carp/carp.png[carp]
 
-=== Geld
+=== Money
 
-==== Münze
+==== Coin
 
-image:/geld/muenze/Muenze.png[Muenze]
+image:/geld/coin/coin.png[coin]
