@@ -45,46 +45,46 @@ image:/plants/cherry/cherry.png[cherry]
 
 ===== Cup of coffee
 
-image:/dekoration/cup/cuo_of_coffee.png[cup of coffee]
+image:/decoration/cup/cuo_of_coffee.png[cup of coffee]
 
 ===== Cactus
 
-image:/dekoration/cactus/cactus.png[cactus]
+image:/decoration/cactus/cactus.png[cactus]
 
 ===== Picture
 
-image:/dekoration/picture/picture.png[picture]
+image:/decoration/picture/picture.png[picture]
 
 === NPCs
 
 ==== Helpy
 
-image:/npc/helpy/helpy.png[helpy]
+image:/npcs/helpy/helpy.png[helpy]
 
-image:/npc/helpy/helpy_laughing.png[helpy laughing]
+image:/npcs/helpy/helpy_laughing.png[helpy laughing]
 
 === Animals
 
 ==== Pigeon
 
-image:/tiere/pigeon/pigeon.png[pigeon]
+image:/animals/pigeon/pigeon.png[pigeon]
 
-image:/tiere/pigeon/pigeon_white.png[pigeon white]
+image:/animals/pigeon/pigeon_white.png[pigeon white]
 
-image:/tiere/pigeon/pigeon_egg.png[pigeon egg]
+image:/animals/pigeon/pigeon_egg.png[pigeon egg]
 
 ==== Pig
 
-image:/tiere/pig/pig.png[pig]
+image:/animals/pig/pig.png[pig]
 
-image:/tiere/pig/boar.png[boar]
+image:/animals/pig/boar.png[boar]
 
 ==== Carp
 
-image:/tiere/carp/carp.png[carp]
+image:/animals/carp/carp.png[carp]
 
 === Money
 
 ==== Coin
 
-image:/geld/coin/coin.png[coin]
+image:/money/coin/coin.png[coin]
